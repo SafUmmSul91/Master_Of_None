@@ -1,3 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Jura', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat' sans-serif;
+}
 /*-----------------Colours*?
 /* CSS HEX *
 --burnished-brown: #997370ff;
@@ -24,3 +36,24 @@ $gradient-bottom-right: linear-gradient(135deg, #997370ff, #ffafccff, #bde0feff)
 $gradient-top-left: linear-gradient(225deg, #997370ff, #ffafccff, #bde0feff);
 $gradient-bottom-left: linear-gradient(315deg, #997370ff, #ffafccff, #bde0feff);
 $gradient-radial: radial-gradient(#997370ff, #ffafccff, #bde0feff);
+
+---GeekForGeeks.org gradient shadow----
+.lgShadow {
+            background: rgb(74, 201, 0);
+            padding: 1rem;
+            top: 100px;
+            position: relative;
+            height: 100px;
+            width: 200px;
+        }
+        /* pseudo-class for making gradient shadow. 
+          
+        .lgShadow::after {
+            content: "";
+            position: absolute;
+            inset: -.625em;
+            background: linear-gradient(to bottom right,
+                rgb(255, 175, 204, 1), rgb(189, 224, 254, 1),rgba(153, 115, 112, 1));
+            filter: blur(2.5em);
+            z-index: -1;
+        }
