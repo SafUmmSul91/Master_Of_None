@@ -28,7 +28,7 @@ This is a Portfolio website I created for my Milestone Project at code institute
 
     -   #### Frequent User Goals
         #####  As a Frequent User
-        1. I want to check to see if there are any newly projects.
+        1. I want to check to see if there are any new projects.
         2. I want to check to see if there are any new updates.
         
 <!-->
