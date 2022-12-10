@@ -31,12 +31,20 @@ This is a Portfolio website I created for my Milestone Project at code institute
         1. I want to check to see if there are any new projects.
         2. I want to check to see if there are any new updates.
         
-<!-->
+
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The three main colours used are:
+         * NADESHIKO PINK - #ffafcc, 
+         * Uranian Blue - #bde0fe,
+         * Burnished Brown - #997370, 
+         and
+         * Text: RICH BLACK FOGRA 29 - #071013.
+         I found the colour palette using [Coolers](https://coolors.co/997370-ffafcc-bde0fe)
+
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   ["Montserrat"](https://fonts.google.com/specimen/Montserrat?query=mon) is the main font used for the body of text throughout the website (with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly) and ["Jura"](https://fonts.google.com/specimen/Jura?query=jura) is used for all headings. Both fonts are clean, modern and clear to read.
+<!-->
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
