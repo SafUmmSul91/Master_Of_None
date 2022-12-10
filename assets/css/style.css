@@ -1,15 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1 {
     font-family: 'Jura', sans-serif;
+    text-shadow: #ffafccff;
+    font-weight: 900;
+    font-size: 4rem;
+    text-shadow: 3px 4px 4px #ffafccff;
+}
+
+h2,h3,h4,h5,h6 {
+    font-family: 'Jura', sans-serif;
+    color: #071013;
+    text-shadow: 2px 3px 3px#bde0fe;
 }
 
 p {
     font-family: 'Montserrat' sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: #071013;
 }
+
 /*-----------------Colours*?
 /* CSS HEX *
 --burnished-brown: #997370ff;
@@ -39,7 +55,7 @@ $gradient-radial: radial-gradient(#997370ff, #ffafccff, #bde0feff);
 
 ---GeekForGeeks.org gradient shadow----
 .lgShadow {
-            background: rgb(74, 201, 0);
+            background: rgba(189, 224, 254, 1);
             padding: 1rem;
             top: 100px;
             position: relative;
