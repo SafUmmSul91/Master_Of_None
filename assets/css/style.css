@@ -27,7 +27,7 @@ p {
 }
 
 body {
-    background: #3a3a3a;
+    background: transparent;
 }
 
 /*-------------------Nav---*/
@@ -49,14 +49,6 @@ nav .navbar-nav li a{
 nav .navbar-nav li a i{
     color: #ffafccff !important; 
 }
-
-/*-------------Header /Home---*/
-header {
-    height:100px;
-    width:100%;
-
-}
-
 
 
 /*-----------------Colours*?
