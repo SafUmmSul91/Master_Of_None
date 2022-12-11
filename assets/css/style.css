@@ -32,9 +32,11 @@ body {
 
 /*-------------------Nav---*/
 
+
+
 nav .navbar-brand {
     font-size: larger;
-    color: #997370ff;
+    color: #997370ff !important;
     font-family: 'Jura', sans-serif;
 }
 
@@ -45,9 +47,9 @@ nav .navbar-nav li a{
 }
 
 nav .navbar-nav li a i{
-    color: #ffafccff !important;
-    
+    color: #ffafccff !important; 
 }
+
 
 /*-----------------Colours*?
 /* CSS HEX *
