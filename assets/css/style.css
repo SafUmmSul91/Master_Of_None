@@ -10,11 +10,13 @@ h1 {
     text-shadow: #ffafccff;
     font-weight: 900;
     font-size: 4rem;
+    color: #997370ff;
     text-shadow: 3px 4px 4px #ffafccff;
 }
 
 h2,h3,h4,h5,h6 {
     font-family: 'Jura', sans-serif;
+    font-weight: 600;
     color: #071013;
     text-shadow: 2px 3px 3px#bde0fe;
 }
@@ -36,6 +38,7 @@ body {
 
 nav .navbar-brand {
     font-size: larger;
+    font-weight: 900;
     color: #997370ff !important;
     font-family: 'Jura', sans-serif;
 }
@@ -44,12 +47,24 @@ nav .navbar-nav li a{
     color: #997370ff !important;
     font-family: 'Jura', sans-serif;
     letter-spacing: 0.5px;
+    font-weight: 700;
 }
 
 nav .navbar-nav li a i{
     color: #ffafccff !important; 
 }
 
+/*-------------------Header/Home*/
+
+header{
+    height: 100%;
+    width: 100%;
+    background-image: url(/assets/images/pastel-background-sky-feminine-style.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-left: 20%;
+}
 
 /*-----------------Colours*?
 /* CSS HEX *
