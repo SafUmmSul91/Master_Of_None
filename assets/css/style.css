@@ -26,6 +26,29 @@ p {
     color: #071013;
 }
 
+body {
+    background: #3a3a3a;
+}
+
+/*-------------------Nav---*/
+
+nav .navbar-brand {
+    font-size: larger;
+    color: #997370ff;
+    font-family: 'Jura', sans-serif;
+}
+
+nav .navbar-nav li a{
+    color: #997370ff !important;
+    font-family: 'Jura', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+nav .navbar-nav li a i{
+    color: #ffafccff !important;
+    
+}
+
 /*-----------------Colours*?
 /* CSS HEX *
 --burnished-brown: #997370ff;
