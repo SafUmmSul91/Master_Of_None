@@ -14,7 +14,15 @@ h1 {
     text-shadow: 3px 4px 4px #ffafccff;
 }
 
-h2,h3,h4,h5,h6 {
+h2 {
+    font-family: 'Jura', sans-serif;
+    font-weight: 700;
+    color: #071013;
+    text-shadow: 2px 3px 3px #ffafccff;
+    font-size: 40px;
+}
+
+h3,h4,h5,h6 {
     font-family: 'Jura', sans-serif;
     font-weight: 600;
     color: #071013;
@@ -81,13 +89,14 @@ header{
 }
 
 .content-box button {
-    color: #997370ff;
+    color: #fff;
+    background-color: #bde0fe;
     text-decoration: none;
-    box-shadow: #bde0fe;
+    box-shadow: 3px 4px 8px #997370ff;
     border-radius: 10px;
-    border: 2px solid #bde0fe;
-    padding: 5px 25px;
+    padding: 10px 25px;
 }
+
 /*-----------------Colours*?
 /* CSS HEX *
 --burnished-brown: #997370ff;
